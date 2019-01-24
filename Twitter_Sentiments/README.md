@@ -1,6 +1,7 @@
-# Project Title
+# Twitter - Sentiment Analysis
 
 One Paragraph of project description goes here
+../input/glove-twitter/glove.twitter.27B.25d.txt
 
 ## Getting Started
 
