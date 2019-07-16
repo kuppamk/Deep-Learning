@@ -13,3 +13,7 @@ It is typical flow of training deep leanring model with debug facilites using te
 6. create a session, initialize all the variables, summary files for train & test
 7. train the model for some epochs mean while you can open tensorboard to view the training using summaries.
 
+
+# MNIST Deep learning Model
+
+    Generally Deep Learning models are heavy interms of no of parameters so I thought of developing model with less parameters and not loosing accuracy. Hence I acheived model with less than 18K parameters  and got accuracy as 99.66. The idea is reduce the no of parameters is acheived using seperable convolution and removing dense layer.
