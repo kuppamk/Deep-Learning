@@ -16,4 +16,4 @@ It is typical flow of training deep leanring model with debug facilites using te
 
 # MNIST Deep learning Model
 
-    Generally Deep Learning models are heavy interms of no of parameters so I thought of developing model with less parameters and not loosing accuracy. Hence I acheived model with less than 18K parameters  and got accuracy as 99.66. The idea is reduce the no of parameters is acheived using seperable convolution and removing dense layer.
+   Generally Deep Learning models are heavy interms of no of parameters so I thought of developing model with less parameters and not loosing accuracy. Hence I acheived model with less than 18K parameters  and got accuracy as 99.66. The idea is reduce the no of parameters is acheived using seperable convolution and removing dense layer.
